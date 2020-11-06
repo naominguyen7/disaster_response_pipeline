@@ -13,6 +13,12 @@ catboost = "*"
 joblib = "*"
 nltk = "*"
 scikit-learn = "*"
+plotly = "*"
+flask = "*"
+wordcloud = "*"
+pillow = "*"
+xgboost = "*"
+scikit-image = "*"
 
 [requires]
 python_version = "3.7"

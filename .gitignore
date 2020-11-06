@@ -2,3 +2,5 @@
 *.ipynb
 *.pkl
 .vscode
+.ipynb_checkpoints
+*catboost_info
